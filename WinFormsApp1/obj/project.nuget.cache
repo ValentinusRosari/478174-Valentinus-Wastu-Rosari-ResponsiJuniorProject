@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmAzjW7Jr+I6EKSvw67pFeTSrnxDhkLGOqkt8wJ/F1MHo+v95QnDFybyk1mQMq1dHNGHMw32zS239QPFxgwPQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentinus Rosari\\Responsi 2\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentinus Rosari\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Valentinus Rosari\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Valentinus Rosari\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Valentinus Rosari\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Valentinus Rosari\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
